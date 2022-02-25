@@ -1,2 +1,21 @@
-# Real-Time-Weather-Statistics
-Fetch NEXRAD data from AWS S3 for a specific time period or for a range using micro services.
+# DSDummies
+Spring 2022 Project
+<br>
+
+Main : 
+<br>
+	&nbsp; &nbsp; Project-Milestone1:
+        <br>
+			&nbsp;&nbsp; &nbsp; develop :
+                         <br>
+			 <ul>
+				<li>UI/Frontend</li>
+                                 <br>
+				<li>Microservice_A/Auth-service</li>
+                                 <br>
+				<li>Microservice_B/Cache</li>
+                                 <br>
+				<li>Microservice_C/Data-Ingestor</li>
+			</ul>
+
+<br > Wiki link : https://github.com/airavata-courses/DSDummies/wiki </br>
