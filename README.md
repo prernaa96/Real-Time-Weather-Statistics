@@ -1,10 +1,9 @@
 # DSDummies
-Spring 2022 Project
+
 <br>
 
 Main : 
 <br>
-	&nbsp; &nbsp; Project-Milestone1:
         <br>
 			&nbsp;&nbsp; &nbsp; develop :
                          <br>
@@ -18,4 +17,3 @@ Main :
 				<li>Microservice_C/Data-Ingestor</li>
 			</ul>
 
-<br > Wiki link : https://github.com/airavata-courses/DSDummies/wiki </br>
